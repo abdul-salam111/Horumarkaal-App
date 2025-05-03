@@ -1,0 +1,1 @@
+ /Users/apple/Saeedan\ Technology/Saeedan\ Flutter\ Projects/Multi-lang2/.dart_tool/flutter_build/dc5298437fa1eaf320c0bc7909f7cd10/native_assets.yaml: 
